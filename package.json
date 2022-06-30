@@ -1,0 +1,19 @@
+{
+  "name": "13-colonies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BaconRadio/13-colonies.git",
+  "author": "CJ <cjtheham@protonmail.com>, PotatoesMakeChips <info@potatoesmakechips.co.uk>",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "electron .",
+    "postcss": "postcss --use autoprefixer -o main.css css/*.css"
+  },
+  "devDependencies": {
+    "electron": "^19.0.6",
+    "electron-reloader": "^1.2.3"
+  },
+  "dependencies": {
+    "mongoose": "^6.4.1"
+  }
+}
