@@ -36,7 +36,7 @@ This will open the eletron app for testing so that changes can be previewed with
 # Build Instructions (Prod Envirometn)
 Yeah we haven't done that ourselfs yet but I'll put it here when we do.
 
-# Controbution Guidelines
+# Contribution Guidelines
 ## Inside of Organisation
 1. Create a new branch from the part of the project you wish to work on. It should be named with the folowing the convention: `<project-part>-<your-github-username>`
 
